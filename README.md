@@ -61,4 +61,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 1. If I had more time I would have implemented a better UI/UX for the project
 2. I would love to add "add to calender functionality"
 
+## Recording
+
+a simple demo
+https://vimeo.com/721595559
+
 ...
